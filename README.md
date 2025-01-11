@@ -1,1 +1,1 @@
-# webdev-basic
+Here are basic project of javascript
